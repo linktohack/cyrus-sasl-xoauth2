@@ -1,4 +1,4 @@
-libtoolize
+glibtoolize
 install -d m4
 aclocal -I m4
 autoheader
